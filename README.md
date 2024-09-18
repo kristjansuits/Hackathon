@@ -16,6 +16,11 @@ pH: This column measures the pH level of the water, indicating its acidity or al
 
 Laekumise aeg (Submission time): This column records the time when the data was logged or submitted, which might differ from the measurement time.
 
+
+
+
+
+
 Brief overview of the data sets with the ending: quan
 
 Seade (Device/Location): The device or location where the measurement is taken.
